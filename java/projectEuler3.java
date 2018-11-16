@@ -24,7 +24,7 @@ public class projectEuler3
 		}
 
 	}
-	//checks whether an long is prime or not.
+	//checks whether a long is prime or not.
 	 static boolean isPrime(long n) {
 	     for(long i=2;i*i<n;i++) 
 	     {
