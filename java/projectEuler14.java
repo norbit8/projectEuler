@@ -1,3 +1,5 @@
+// project euler ex14
+// yoav levy
 public class projectEuler14 {
 	public static void main(String[] args)
 	{
